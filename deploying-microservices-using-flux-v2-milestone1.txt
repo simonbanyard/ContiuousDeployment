@@ -1,0 +1,9 @@
+Client Version: v1.32.7
+Kustomize Version: v5.5.0
+kind v0.31.0 go1.25.5 darwin/arm64
+flux version 2.8.3
+Client Version: v1.32.7
+Kustomize Version: v5.5.0
+kind v0.31.0 go1.25.5 darwin/arm64
+kind
+flux version 2.8.3
